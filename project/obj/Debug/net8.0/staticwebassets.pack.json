@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\accessdenied.html",
+      "PackagePath": "staticwebassets\\accessdenied.html"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\adshop.css",
+      "PackagePath": "staticwebassets\\adshop.css"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\adshop.html",
+      "PackagePath": "staticwebassets\\adshop.html"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\login.css",
+      "PackagePath": "staticwebassets\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\shop.css",
+      "PackagePath": "staticwebassets\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\user.css",
+      "PackagePath": "staticwebassets\\user.css"
+    },
+    {
+      "Id": "C:\\Users\\vsevo\\OneDrive\\Рабочий стол\\project\\Onlineshop.2.3\\Onlineshop.2.2\\wwwroot\\user.html",
+      "PackagePath": "staticwebassets\\user.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Onlineshop.2.2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Onlineshop.2.2.props",
+      "PackagePath": "build\\Onlineshop.2.2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Onlineshop.2.2.props",
+      "PackagePath": "buildMultiTargeting\\Onlineshop.2.2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Onlineshop.2.2.props",
+      "PackagePath": "buildTransitive\\Onlineshop.2.2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
