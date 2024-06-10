@@ -22,5 +22,20 @@
             <input type="submit" value="Вход">
         </form>
     </div>
+        <script>
+        document.getElementById('login-form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Предотвращаем отправку формы по умолчанию
+
+            // Получаем значение выбранной роли
+            const role = document.querySelector('input[name="role"]:checked').value;
+
+            // Перенаправляем пользователя на соответствующую страницу в зависимости от выбранной роли
+            if (role === 'user') {
+                window.location.href = 'user.html'; // Переход на страницу user.html
+            } else if (role === 'admin') {
+                window.location.href = 'adshop.html'; // Переход на страницу adshop.html
+            }
+        });
+    </script>
 </body>
 </html>
